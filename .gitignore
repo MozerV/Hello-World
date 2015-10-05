@@ -1,0 +1,4 @@
+#folder logs
+Logs/
+# txt files
+docs/*.txt
